@@ -1,1 +1,0 @@
-# ROS2-challenge-JdeRobotics
